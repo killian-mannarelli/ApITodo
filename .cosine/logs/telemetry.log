@@ -1,0 +1,53 @@
+
+INFO [2023-11-10T14:49:02.099Z]: Tracking open event
+INFO [2023-11-10T14:49:02.102Z]: Creating language service
+INFO [2023-11-10T14:49:02.102Z]: Creating settings service
+INFO [2023-11-10T14:49:02.102Z]: Creating workspace service
+INFO [2023-11-10T14:49:02.102Z]: Creating remote AI
+INFO [2023-11-10T14:49:02.102Z]: Creating feedback service
+INFO [2023-11-10T14:49:02.102Z]: Creating share service
+INFO [2023-11-10T14:49:02.102Z]: Creating workspace controller
+INFO [2023-11-10T14:49:02.102Z]: Enabling workspace listeners
+INFO [2023-11-10T14:49:02.102Z]: Creating source
+INFO [2023-11-10T14:49:02.102Z]: Initializing workspace controller
+INFO [2023-11-10T14:49:02.103Z]: opened
+INFO [2023-11-10T14:49:02.103Z]: {}
+INFO [2023-11-10T14:59:31.677Z]: Tracking open event
+INFO [2023-11-10T14:59:31.680Z]: Creating language service
+INFO [2023-11-10T14:59:31.681Z]: Creating settings service
+INFO [2023-11-10T14:59:31.681Z]: Creating workspace service
+INFO [2023-11-10T14:59:31.682Z]: Creating remote AI
+INFO [2023-11-10T14:59:31.682Z]: Creating feedback service
+INFO [2023-11-10T14:59:31.682Z]: Creating share service
+INFO [2023-11-10T14:59:31.682Z]: Creating workspace controller
+INFO [2023-11-10T14:59:31.682Z]: Enabling workspace listeners
+INFO [2023-11-10T14:59:31.682Z]: Creating source
+INFO [2023-11-10T14:59:31.682Z]: Initializing workspace controller
+INFO [2023-11-10T14:59:31.683Z]: opened
+INFO [2023-11-10T14:59:31.683Z]: {}
+INFO [2023-11-10T15:13:00.846Z]: Tracking open event
+INFO [2023-11-10T15:13:00.848Z]: Creating language service
+INFO [2023-11-10T15:13:00.848Z]: Creating settings service
+INFO [2023-11-10T15:13:00.848Z]: Creating workspace service
+INFO [2023-11-10T15:13:00.849Z]: Creating remote AI
+INFO [2023-11-10T15:13:00.849Z]: Creating feedback service
+INFO [2023-11-10T15:13:00.849Z]: Creating share service
+INFO [2023-11-10T15:13:00.849Z]: Creating workspace controller
+INFO [2023-11-10T15:13:00.849Z]: Enabling workspace listeners
+INFO [2023-11-10T15:13:00.849Z]: Creating source
+INFO [2023-11-10T15:13:00.849Z]: Initializing workspace controller
+INFO [2023-11-10T15:13:00.850Z]: opened
+INFO [2023-11-10T15:13:00.850Z]: {}
+INFO [2023-11-10T15:13:37.915Z]: Tracking open event
+INFO [2023-11-10T15:13:37.917Z]: Creating language service
+INFO [2023-11-10T15:13:37.917Z]: Creating settings service
+INFO [2023-11-10T15:13:37.917Z]: Creating workspace service
+INFO [2023-11-10T15:13:37.917Z]: Creating remote AI
+INFO [2023-11-10T15:13:37.917Z]: Creating feedback service
+INFO [2023-11-10T15:13:37.917Z]: Creating share service
+INFO [2023-11-10T15:13:37.917Z]: Creating workspace controller
+INFO [2023-11-10T15:13:37.917Z]: Enabling workspace listeners
+INFO [2023-11-10T15:13:37.918Z]: Creating source
+INFO [2023-11-10T15:13:37.918Z]: Initializing workspace controller
+INFO [2023-11-10T15:13:37.918Z]: opened
+INFO [2023-11-10T15:13:37.918Z]: {}
