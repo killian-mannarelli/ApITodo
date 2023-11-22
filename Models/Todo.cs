@@ -13,12 +13,12 @@ public class Todo
     public DateTime Date { get; set; }
 
     public int? TodoListId { get; set; }
-    public TodoList TodoList { get; set; }
+    public TodoList? TodoList { get; set; }
 }
 
 public class TodoList
 {
     public int Id { get; set; }
     public string Name { get; set; }
-    public ICollection<Todo> Todos { get; set; }
+    public ICollection<Todo>? Todos { get; set; }
 }
